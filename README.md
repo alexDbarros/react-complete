@@ -3,10 +3,9 @@
 ## React - The Complete Guide
 
 ### Getting Started
+
 STATUS: ok
 
-### Refreshing Next Generation JavaScript
-STATUS: ok
+### Optional: React Summary & Core Feature Walkthrough
 
-### Understanding the Base Features & Syntax
 STATUS: started
